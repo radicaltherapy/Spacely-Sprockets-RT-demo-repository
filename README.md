@@ -1,4 +1,5 @@
 # Spacely Sprockets - Radical Transparency Demo
+![Screenshot 2023-11-17 at 11 42 23 AM](https://github.com/radicaltherapy/Spacely-Sprockets-RT-demo-repository/assets/449810/7d897af8-ffb6-480e-a0c5-845f5b25b8f2)
 
 Welcome to the Spacely Sprockets Radical Transparency Demo project! This repository serves as a demonstration of best practices in achieving radical transparency in an open-source project. We believe that transparency is the key to fostering collaboration, innovation, and a strong community.
 
